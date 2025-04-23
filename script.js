@@ -1,0 +1,1 @@
+(function(){var _0=['getElementById','loader','textContent','Fetching download link...','location','href','https://downloafile.github.io/link/'];var l=document[_0[0]](_0[1]);l[_0[2]]=_0[3];var t=2,i=setInterval(function(){t--,0===t&&(clearInterval(i),window[_0[4]][_0[5]]=_0[6])},1000)})();
